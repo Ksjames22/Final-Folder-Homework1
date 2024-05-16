@@ -36,4 +36,4 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 ---
 
 Made with ❤️️ by Horiseon Social Solution Services, Inc.
-&copy; 2024 Horiseon Social Solution Services, Inc.This is the repo I want to use for the final Challenge 01 homework assignment.
+&copy; 2024 Horiseon Social Solution Services, Inc.
