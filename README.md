@@ -35,7 +35,9 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 ## Link to Challenge01
 [DeploymentPage]https://ksjames22.github.io/Final-Folder-Homework1/
 
-
+## ScreenShot 
+[ScreenShot](assets/images/ScreenShotChallenge1.png)
+    
 ---
 
 Made with ❤️️ by Horiseon Social Solution Services, Inc.
